@@ -1,14 +1,14 @@
 ## Secure Api Key 
 Secure api key with server side, get request from Android side with public key. Server side is using Ktor and Kobweb frameworks.
 
-## Dependencies App
+## Dependencies for App
 - Jetpack Compose
 - Retrofit
 - Dragger Injection
 - KotlinX Serialization
 - Shared Preferences
 
-## Dependencies for Server
+## Dependencies for Backend Server
 - Ktor
 - Kobweb
 
