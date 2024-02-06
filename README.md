@@ -13,8 +13,8 @@ Secure api key with server side, get request from Android side with public key. 
 - Kobweb
 
 ## Demo
-   Android Screen 
-:-------------------------:
+   Android Screen |
+:-------------------------: |
 <img src="demo.png" width="300px">
 
 ### Donate Me
